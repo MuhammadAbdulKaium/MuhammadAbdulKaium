@@ -29,7 +29,7 @@ Designing and shipping AI agents and automation workflows that connect LLMs to r
 | **Facebook Comment-to-DM Automation** | Detects comment intent and sends personalized automated replies | n8n, Facebook Graph API, OpenRouter |
 | **AI-to-YouTube Video Pipeline** | End-to-end automated video generation and publishing | OpenAI, ElevenLabs, Kling AI, FFmpeg |
 
-*(Repos linked below as they're published — pinned projects reflect current work.)*
+<!--*(Repos linked below as they're published — pinned projects reflect current work.)*-->
 
 ---
 
@@ -65,7 +65,7 @@ and web applications for companies and clients.
 
 ## 📌 Pinned Projects
 
-*(Update once repos are published — see the table above for the current priority order.)*
+<!--*(Update once repos are published — see the table above for the current priority order.)*-->
 
 ---
 
