@@ -65,6 +65,8 @@ and web applications for companies and clients.
 
 ## 📌 Pinned Projects
 
+**[Real-Time Stock Analysis & Alert System](https://github.com/MuhammadAbdulKaium/real-time-stock-analysis-and-alert-system)**
+Real-time stock monitoring and automated alerting system built with n8n.
 <!--*(Update once repos are published — see the table above for the current priority order.)*-->
 
 ---
