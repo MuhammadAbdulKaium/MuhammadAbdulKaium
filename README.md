@@ -27,7 +27,7 @@ Designing and shipping AI agents and automation workflows that connect LLMs to r
 | **AI Receptionist** | Voice AI agent (Retell AI + MCP) that answers calls, books appointments, and captures leads | Retell AI, n8n, MCP, Airtable |
 | **RAG Email Support Agent** | Retrieval-augmented email agent that answers customer queries from a knowledge base before human approval | n8n, OpenAI, Pinecone/ChromaDB, Gmail API |
 | **AI News Research Automation** | Automated news collection, summarization, and categorization pipeline | n8n, Claude API, GNews API |
-| **Facebook Comment-to-DM Automation** | Detects comment intent and sends personalized automated replies | n8n, Facebook Graph API, OpenRouter |
+| **[Facebook Comment-to-DM Automation](https://github.com/MuhammadAbdulKaium/fb-comment-to-dm-automation)** | Detects comment intent and sends personalized automated replies | n8n, Facebook Graph API, OpenRouter |
 | **AI-to-YouTube Video Pipeline** | End-to-end automated video generation and publishing | OpenAI, ElevenLabs, Kling AI, FFmpeg |
 <!--*(Repos linked below as they're published — pinned projects reflect current work.)*-->
 
@@ -67,6 +67,9 @@ and web applications for companies and clients.
 
 **[Real-Time Stock Analysis & Alert System](https://github.com/MuhammadAbdulKaium/real-time-stock-analysis-and-alert-system)**
 Real-time stock monitoring and automated alerting system built with n8n.
+
+**[Facebook Comment-to-DM Automation](https://github.com/MuhammadAbdulKaium/fb-comment-to-dm-automation)**
+Detects intent from Facebook comments and sends personalized automated replies.
 <!--*(Update once repos are published — see the table above for the current priority order.)*-->
 
 ---
